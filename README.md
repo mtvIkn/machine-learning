@@ -1,3 +1,3 @@
 # machine-learning
 
-Ноутбуки Google Colab 
+Analytics and machine learning projects
